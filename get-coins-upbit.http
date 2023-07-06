@@ -1,0 +1,8 @@
+###
+
+# curl --request GET
+#  --url https://api.upbit.com/v1/market/all
+GET https://api.upbit.com/v1/market/all
+
+###
+

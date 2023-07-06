@@ -1,0 +1,7 @@
+{
+  "name": "coins-collector",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/node": "^16"
+  }
+}

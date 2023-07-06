@@ -1,0 +1,8 @@
+# curl --request GET
+#     --url https://api.bithumb.com/public/ticker/ALL_KRW
+#     --header 'accept: application/json'
+GET https://api.bithumb.com/public/ticker/ALL_KRW
+accept: application/json
+
+###
+
